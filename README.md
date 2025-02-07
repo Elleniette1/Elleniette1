@@ -1,6 +1,15 @@
-Hello, my name's Elleniette.
-Probably using this github for open-sourcing my problems, having fun with the features or writing code for statistics.
-Code will 100% be so niche that even I won't find use for 'em.
+# Hello! My name's Elle Min! 👋
+
+[LinkedIn](https://www.linkedin.com/in/ellmin-fawwaz/)
+
++ **1st Year LSE Student** currently studying **BSc. Economics**!
+  
++ Loves **drawing**, **painting** and anything **Monetary Policy** related!
+  
++ **Research Analyst** for the **LSESU Central Banking Society**!
+
+This account will only be used for coding most probably.
+
 <!---
 Elleniette1/Elleniette1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
